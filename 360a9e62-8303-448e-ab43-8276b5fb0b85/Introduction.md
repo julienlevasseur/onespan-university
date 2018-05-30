@@ -1,5 +1,3 @@
-# Technology stack overview
-
 ## Introduction
 
 This course is intended to explain the OneSpan technology stack for new comers.

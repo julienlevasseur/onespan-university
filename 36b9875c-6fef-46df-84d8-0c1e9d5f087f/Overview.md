@@ -1,5 +1,3 @@
-# eSignlive Application architecture
-
 ## Overview
 
 ![application_architecture](https://www.scnsoft.com/blog-pictures/web_application_architecture-02.png)
