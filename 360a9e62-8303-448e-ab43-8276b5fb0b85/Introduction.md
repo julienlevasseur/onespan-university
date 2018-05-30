@@ -5,7 +5,7 @@
 This course is intended to explain the OneSpan technology stack for new comers.
 
 Here is the gobal architecture schema:
-![architecture.png](https://s3.amazonaws.com/onespan-university/360a9e62-8303-448e-ab43-8276b5fb0b85/architecture.png)
+![architecture.png](https://raw.githubusercontent.com/julienlevasseur/onespan-university/master/360a9e62-8303-448e-ab43-8276b5fb0b85/architecture.png)
 
 Hybrid cloud architecture is the integration of on-premises resources with cloud resources.
 
