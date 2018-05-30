@@ -1,0 +1,3 @@
+## Conclusion
+
+Some of these items may seem esoteric, as they are rooted in some fundamental systems design debates. But at the heart of a happily running system is an architecture that is robust, reliable, and surprises us as little as possible. These 12 factors are being adopted by most major software platforms and frameworks, and to cut corners against their grain is a bad idea. Discuss these issues with your development team, see if there are some quick wins to improve the quality of your application design.
